@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentpruchnowski&label=Profile%20views&color=0e75b6&style=flat" alt="vincentpruchnowski" /> </p>
 
-- 🌱 I’m currently learning **Linux, Docker, Kubernetes**
+- 🌱 I’m currently learning **Linux, Docker, Kubernetes, Ansible, Terraform, CI/CD and Cloud too**
 
 - 👨‍💻 All of my projects are available at [https://www.vincent-pruchnowski.com/](https://www.vincent-pruchnowski.com/)
 
