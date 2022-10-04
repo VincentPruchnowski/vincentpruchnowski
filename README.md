@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 😀, I'm Vincent Pruchnowski</h1>
+<h1 align="center">Hi everyone ☁, I'm Vincent Pruchnowski</h1>
 <h3 align="center">Web developer who wants to move into the exciting field of DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentpruchnowski&label=Profile%20views&color=0e75b6&style=flat" alt="vincentpruchnowski" /> </p>
