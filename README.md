@@ -14,7 +14,6 @@
 - ☁️ Working with **GCP, Microsoft Azure, Terraform and Kubernetes**
 - 🚀 Experience with **CI/CD pipelines, Docker, OpenShift and observability**
 - 🛠️ Familiar with **Ansible, Python, Bash and infrastructure automation**
-- 🌐 All my projects: [vincent-pruchnowski.com](https://www.vincent-pruchnowski.com/)
 - 📫 Contact: **vincent.pruchnowski@gmx.com**
 
 <h3 align="left">Connect with me</h3>
