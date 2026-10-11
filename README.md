@@ -1,11 +1,9 @@
 <h1 align="center">Hi everyone ☁, I'm Vincent Pruchnowski</h1>
-<h3 align="center">Web developer who wants to move into the exciting field of DevOps</h3>
+<h3 align="center">DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentpruchnowski&label=Profile%20views&color=0e75b6&style=flat" alt="vincentpruchnowski" /> </p>
 
-- 🌱 I’m currently learning **Linux, Docker, Kubernetes, Ansible, Terraform, CI/CD and Cloud too**
-
-- 👨‍💻 All of my projects are available at [https://www.vincent-pruchnowski.com/](https://www.vincent-pruchnowski.com/)
+- 🌱 Skills **Linux, Docker, Kubernetes, Ansible, Terraform, CI/CD and Cloud too**
 
 - 📫 How to reach me **vincent.pruchnowski@gmx.com**
 
